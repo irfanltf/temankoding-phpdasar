@@ -43,3 +43,8 @@
   + [Menerapkan sanitasi data pengguna](#Menerapkan-sanitasi-data-pengguna)
  
 # 1. Pengenalan PHP
+  ## Sejarah dan tujuan PHP
+  ## Instalasi PHP
+  ## Struktur dasar program PHP
+  ## Variabel dan tipe data
+# 2. Pemrograman Dasar
