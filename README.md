@@ -48,14 +48,17 @@
 Hello sobat koding - Di sini, kita akan menjelajahi sejarah singkat PHP, bagaimana ia lahir, serta tujuan utama di balik keberadaannya. Bersiaplah untuk memahami asal-usul bahasa pemrograman yang telah menjadi tulang punggung jutaan situs web di seluruh dunia!
 
 `Bagian 1: Awal Mula PHP`
+
 PHP, singkatan dari "PHP: Hypertext Preprocessor," bukanlah singkatan yang mudah diingat, tetapi kisahnya sangat menarik. Pada tahun 1994, seorang programmer bernama Rasmus Lerdorf membuatnya untuk mengelola resume pribadinya dan menghitung berapa kali situsnya telah dilihat. Siapa sangka, apa yang dimulai sebagai proyek sederhana ini akan menjadi fenomena dunia web!
 
 Awalnya, PHP disebut "Personal Home Page" (PHP), sebuah alat sederhana yang membantu dalam pengembangan situs web. Tapi, kemudian, PHP berevolusi menjadi "PHP: Hypertext Preprocessor" - menggambarkan peran barunya dalam memproses kode di sisi server untuk menghasilkan konten dinamis yang menakjubkan.
 
 `Bagian 2: Perjalanan PHP Menuju Populeritas`
+
 PHP, seperti biasanya dalam cerita-cerita yang menginspirasi, tidak pernah meraih kesuksesannya dalam semalam. Setelah dirilis ke publik, banyak programmer dan pengembang web tertarik dengan kemampuan dan kegunaan bahasa ini. PHP memungkinkan mereka untuk membuat situs web interaktif, mengambil data dari basis data, dan bahkan membuat forum diskusi. Dalam waktu singkat, web penuh dengan situs-situs yang dibangun dengan PHP!
 
 `Bagian 3: Mengapa PHP Begitu Populer?`
+
 Keistimewaan PHP tidak hanya terletak pada asal-usul dan popularitasnya, tetapi juga pada beberapa tujuan yang menjadikannya bahasa pemrograman yang begitu asik dan bermanfaat:
 
 - Kemudahan Penggunaan: PHP dirancang untuk menjadi mudah dipahami oleh pemula sekalipun. Kode PHP mudah dibaca, ditulis, dan dimengerti, membuatnya menjadi pilihan sempurna bagi para pengembang baru.
