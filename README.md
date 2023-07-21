@@ -41,3 +41,5 @@
   + [Mencegah serangan injeksi SQL](#Mencegah-serangan-injeksi-SQL)
   + [Melindungi aplikasi dari serangan cross-site scripting (XSS)](Melindungi-aplikasi-dari-serangan-cross-site-scripting)
   + [Menerapkan sanitasi data pengguna](#Menerapkan-sanitasi-data-pengguna)
+ 
+# 1. Pengenalan PHP
